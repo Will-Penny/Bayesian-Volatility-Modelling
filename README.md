@@ -3,6 +3,12 @@
 A comparison of classical (GARCH) and Bayesian (stochastic volatility) approaches to estimating
 market volatility, built around the 2008 financial crisis, with the sampler failures and fixes
 documented along the way.
+## Credits 
+Extension Credits to LinkedIn Commenters:
+
+* Ashraf SAID : https://www.linkedin.com/in/saidashraf/
+* Peter Cotton : https://www.linkedin.com/in/petercotton/
+* Steve Jewson : https://www.linkedin.com/in/steve-jewson-phd-052bb417/
 
 ## Overview
 
